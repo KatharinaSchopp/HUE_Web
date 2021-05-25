@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a826346b-af62-4bcd-891a-4616cc409e22" name="HETZNER" url="https://kwmcorona.s1810456036.student.kwmhgb.at">
+        <fileTransfer rootFolder="/usr/home/sstud548/public_html/kwmcorona/bookstoreServer" accessType="SFTP" host="dedi50.your-server.de" port="222" sshConfigId="94a2e757-4fb8-4389-8319-505c29ead5b8" sshConfig="HETZNER">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
